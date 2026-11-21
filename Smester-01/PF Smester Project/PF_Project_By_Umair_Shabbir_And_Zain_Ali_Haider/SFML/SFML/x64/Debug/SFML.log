@@ -1,0 +1,15 @@
+﻿  main.cpp
+D:\PF\Semester Project\Semester Project\SFML\SFML\main.cpp(4,6): error C2039: 'Renderwindow': is not a member of 'sf'
+      D:\PF\Semester Project\Semester Project\SFML\SFML\libraries\include\SFML\Graphics\VertexBuffer.hpp(37,11):
+      see declaration of 'sf'
+  
+D:\PF\Semester Project\Semester Project\SFML\SFML\main.cpp(4,6): error C2065: 'Renderwindow': undeclared identifier
+D:\PF\Semester Project\Semester Project\SFML\SFML\main.cpp(4,19): error C2146: syntax error: missing ';' before identifier 'window'
+D:\PF\Semester Project\Semester Project\SFML\SFML\main.cpp(4,51): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+D:\PF\Semester Project\Semester Project\SFML\SFML\main.cpp(4,59): error C3872: '0x201d': this character is not allowed in an identifier
+D:\PF\Semester Project\Semester Project\SFML\SFML\main.cpp(4,51): error C2065: '“SFML': undeclared identifier
+D:\PF\Semester Project\Semester Project\SFML\SFML\main.cpp(4,59): error C2146: syntax error: missing ')' before identifier 'Window”'
+D:\PF\Semester Project\Semester Project\SFML\SFML\main.cpp(4,19): error C3861: 'window': identifier not found
+D:\PF\Semester Project\Semester Project\SFML\SFML\main.cpp(4,59): error C2146: syntax error: missing ';' before identifier 'Window”'
+D:\PF\Semester Project\Semester Project\SFML\SFML\main.cpp(4,59): error C2065: 'Window”': undeclared identifier
+D:\PF\Semester Project\Semester Project\SFML\SFML\main.cpp(4,88): error C2059: syntax error: ')'
